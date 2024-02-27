@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AabidPatel
 - 👀 I’m interested in Autonomous Cars, Computer Vision and Robotics
-- 🌱 I’m currently learning Robot Operating System (ROS)
+- 🌱 I’m currently working on creating NYC's first large-scale dataset for Autonomous Vehicles
 - 💞️ I’m looking to collaborate on Autonomous Car using Carla Simulator
 - 📫 How to reach me - aap9131@nyu.edu or abidpatel6528@gmail.com
 
